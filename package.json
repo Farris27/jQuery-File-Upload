@@ -40,7 +40,7 @@
     "blueimp-tmpl": "3.6.0"
   },
   "devDependencies": {
-    "bower-json": "0.8.1",
+    "bower-json": "0.8.4",
     "jshint": "2.9.3"
   },
   "scripts": {
